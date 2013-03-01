@@ -4255,3 +4255,4 @@ Processing by PostsController#index as HTML
   Rendered layouts/_navigation.html.erb (0.9ms)
   Rendered layouts/_messages.html.erb (0.1ms)
 Completed 200 OK in 65ms (Views: 59.0ms | ActiveRecord: 1.5ms)
+Connecting to database specified by database.yml
